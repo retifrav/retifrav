@@ -1,1 +1,1 @@
-If you'd like to ask me about something, you can use [this issues page](https://github.com/retifrav/retifrav/issues).
+If you'd like to ask me about something publicly, you can use [issues page in this repository](https://github.com/retifrav/retifrav/issues). Otherwise, you can get my e-mail from one of the (*signed*) commits.
