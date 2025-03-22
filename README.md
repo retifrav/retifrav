@@ -1,1 +1,1 @@
-If you'd like to ask me about something publicly, you can use the [issues page here](https://github.com/retifrav/retifrav/issues). Otherwise, you can get my e-mail from one of the (*signed*) commits. Here's also [my PGP key](https://decovar.dev/about/retif-public.asc).
+If you'd like to ask me about something publicly, you can use the [issues page here](https://github.com/retifrav/retifrav/issues). Otherwise, you can get my e-mail from one of the (*signed*) commits in my any other repository. Here's also [my PGP key](https://decovar.dev/about/retif-public.asc).
